@@ -1,0 +1,5 @@
+{
+  "name": "SpeakEnglish",
+  "description": "An interactive web application to practice English speaking with AI feedback.",
+  "requestFramePermissions": ["microphone"]
+}
